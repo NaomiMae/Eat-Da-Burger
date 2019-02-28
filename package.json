@@ -13,10 +13,19 @@
     "env": "0.0.2",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "sequelize-heroku": "^2.0.0"
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaomiMae/Eat-Da-Burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NaomiMae/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/NaomiMae/Eat-Da-Burger#readme",
   "description": ""
 }
